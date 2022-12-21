@@ -1,1 +1,1 @@
-# Predicting-Alcohol-Consumption-in-studentss
+# Predicting-Alcohol-Consumption-in-students
